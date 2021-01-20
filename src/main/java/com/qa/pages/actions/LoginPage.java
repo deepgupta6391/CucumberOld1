@@ -35,5 +35,9 @@ public class LoginPage extends TestBase{
 		return new HomePage();
 	}
 	
+	public void makingChanges() {
+		System.out.println("Making changes");
+	}
+	
 	
 }
